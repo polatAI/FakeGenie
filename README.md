@@ -116,8 +116,7 @@ Bu proje MIT lisansı ile lisanslanmıştır. Detaylar için [LICENSE](LICENSE) 
 
 ## 👤 Geliştirici
 
-**Ad Soyad:** (adını buraya yaz)  
-**LinkedIn / GitHub / Website:** (varsa link ekle)  
+**Ad Soyad:** (SEYFULLAH POLAT)   
 
 ---
 
