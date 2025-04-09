@@ -116,7 +116,7 @@ Bu proje MIT lisansı ile lisanslanmıştır. Detaylar için [LICENSE](LICENSE) 
 
 ## 👤 Geliştirici
 
-**Ad Soyad:** (SEYFULLAH POLAT)   
+**Ad Soyad:** (polat.ai)   
 
 ---
 
