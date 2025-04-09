@@ -1,3 +1,4 @@
+
 ---
 
 **🔮 Sahte Veri Üretici (Fake Data Generator)**
