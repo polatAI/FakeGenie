@@ -17,13 +17,7 @@ Bu Python uygulaması, sahte veri üretimi için geliştirilmiş kapsamlı ve es
 - Kolay kurulum ve kullanım  
 - .exe dosyasına dönüştürülmüş taşınabilir yapı  
 
----
-
-**📸 Ekran Görüntüsü**
-
-(Ekran görüntüsü koymak istersen buraya ekleyebilirsin)
-
----
+--
 
 **🚀 Kurulum**
 
