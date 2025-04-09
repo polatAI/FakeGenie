@@ -1,50 +1,43 @@
-Doğru diyorsun dostum, oradan sonrası markdown bloğunun dışında kalmış. Hemen tamamını düzgünce tek bir `markdown` bloğu içine alıyorum:
+Tabii dostum, sadece `markdown` içeriğini düz yazı formatında aşağıya koyuyorum:
 
 ---
 
-```markdown
-# 🔮 Sahte Veri Üretici (Fake Data Generator)
+**🔮 Sahte Veri Üretici (Fake Data Generator)**
 
 Bu Python uygulaması, sahte veri üretimi için geliştirilmiş kapsamlı ve esnek bir araçtır. Kullanıcı, ürün, şirket, sağlık, eğitim, ödeme, hava durumu, sosyal medya, makale, film, yorum gibi birçok kategoride anlamlı ve rastgele veriler oluşturabilir. Ayrıca bu veriler SQLite veritabanına kaydedilir ve GUI üzerinden görüntülenebilir.
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-GUI-brightgreen)
-![SQLite](https://img.shields.io/badge/SQLite-embedded-lightgrey)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20MacOS-informational)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+---
+
+**🧠 Özellikler**
+
+- 15+ kategoride sahte veri üretimi  
+- Oluşturulan verileri SQLite veritabanına kaydeder  
+- Dark/Light mod destekli CustomTkinter GUI  
+- Veri listesi canlı olarak arayüzde gösterilir  
+- İleriye dönük dışa aktarım (JSON/CSV) altyapısı  
+- Kolay kurulum ve kullanım  
+- .exe dosyasına dönüştürülmüş taşınabilir yapı  
 
 ---
 
-## 🧠 Özellikler
+**📸 Ekran Görüntüsü**
 
-- ✅ **15+ kategoride sahte veri üretimi**
-- 🗃️ **Oluşturulan verileri SQLite veritabanına kaydeder**
-- 🖥️ **Dark/Light mod destekli CustomTkinter GUI**
-- 📄 **Veri listesi canlı olarak arayüzde gösterilir**
-- 💾 **İleriye dönük dışa aktarım (JSON/CSV) altyapısı**
-- 📦 **Kolay kurulum ve kullanım**
-- 🛠️ **.exe dosyasına dönüştürülmüş taşınabilir yapı**
+(Ekran görüntüsü koymak istersen buraya ekleyebilirsin)
 
 ---
 
-## 📸 Ekran Görüntüsü
+**🚀 Kurulum**
 
-> Ekran görüntüsünü buraya ekleyebilirsin:
-> ![Uygulama Ekranı](screenshots/main_interface.png)
+1. Projeyi klonla:
+   ```bash
+   git clone https://github.com/kullaniciadi/sahte-veri-uretici.git
+   cd sahte-veri-uretici
+   ```
 
----
-
-## 🚀 Kurulum
-
-```bash
-# Projeyi klonla
-git clone https://github.com/kullaniciadi/sahte-veri-uretici.git
-cd sahte-veri-uretici
-
-# Gerekli kütüphaneleri kur
-pip install -r requirements.txt
-```
-
+2. Gerekli kütüphaneleri kur:
+   ```bash
+   pip install -r requirements.txt
+   ```
 > `requirements.txt` içeriği:
 > ```
 > customtkinter
@@ -133,9 +126,3 @@ Bu proje MIT lisansı ile lisanslanmıştır. Detaylar için [LICENSE](LICENSE) 
 
 Bu proje, veri bilimi, yazılım testi ve demo uygulamaları için hızlı veri üretimi ihtiyacına yönelik geliştirilmiştir. Açık kaynaklıdır ve herkesin katkısına açıktır.
 ```
-
----
-
-Hazırsan bunu direkt `README.md` dosyası olarak root dizine at, sonra da `git add . && git commit -m "initial readme"` deyip bas gitsin. Bir de ekran görüntüsü eklersen `screenshots/` klasörüne, tam cuk oturur.
-
-İstersen badge'ları Türkçeye de çevirebilirim, ama böyle kalması daha "GitHub vibe" veriyor.
