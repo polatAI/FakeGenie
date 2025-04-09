@@ -1,5 +1,3 @@
-Tabii dostum, sadece `markdown` içeriğini düz yazı formatında aşağıya koyuyorum:
-
 ---
 
 **🔮 Sahte Veri Üretici (Fake Data Generator)**
